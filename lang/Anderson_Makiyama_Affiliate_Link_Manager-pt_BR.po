@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Affiliate Link Manager 2.0\n"
+"POT-Creation-Date: 2014-12-11 00:32-0300\n"
+"PO-Revision-Date: 2014-12-11 00:32-0300\n"
+"Last-Translator: Anderson <andersonmaki@gmail.com>\n"
+"Language-Team: andersonmakiyama <andersonmaki@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wp-content\\plugins\\affiliate-link-"
+"manager\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: index.php:93 templates/addlinks.php:7
+msgid "Settings"
+msgstr "Configurações"
+
+#: index.php:125
+msgid "Report"
+msgstr "Relatório"
+
+#: index.php:127
+msgid "Help page"
+msgstr "Página de Ajuda"
+
+#: index.php:131
+msgid "Add Links"
+msgstr "Adicione Links"
+
+#: index.php:189
+msgid "Affiliate url and keyword cannot be empty!"
+msgstr "Url do Afiliado e palavra-chave não precisam ser preenchidas!"
+
+#: index.php:217 index.php:381
+msgid "The Keyword already exists!"
+msgstr "A palavra-chave já existe!"
+
+#: index.php:243 index.php:405
+msgid "There is a Post or Page using this URL! Try another Keyword!"
+msgstr "Existe um Post ou Página usando este URL! Tente outra palavra-chave!"
+
+#: index.php:436
+msgid "The Link has been updated successfully!"
+msgstr "Links atualizados com sucesso!"
+
+#: index.php:604
+msgid "Direct Access"
+msgstr "Acesso Direto"
+
+#: templates/addlinks.php:13
+msgid "Set up the plugin Options at this page"
+msgstr "Configure as opções do plugin nesta página"
+
+#: templates/addlinks.php:35
+msgid "Add new Affiliate Links"
+msgstr "Adicione novos links de afiliado"
+
+#: templates/addlinks.php:44
+msgid "Enter some affiliate url and its respective keyword"
+msgstr "Digite algum url de afiliado e sua respectiva palavra-chave"
+
+#: templates/addlinks.php:50
+msgid "Affiliate url"
+msgstr "Url de Afiliado"
+
+#: templates/addlinks.php:54 templates/report.php:68 templates/report.php:133
+msgid "Keyword"
+msgstr "Palavra-chave"
+
+#: templates/addlinks.php:54
+msgid "Just numbers an letters"
+msgstr "Somente números e letras"
+
+#: templates/addlinks.php:70 templates/report.php:79
+msgid "Description"
+msgstr "Descrição"
+
+#: templates/addlinks.php:84
+msgid "Add"
+msgstr "Adicionar"
+
+#: templates/addlinks.php:151 templates/help.php:40 templates/report.php:228
+msgid "Author"
+msgstr "Autor"
+
+#: templates/addlinks.php:159 templates/help.php:48 templates/report.php:236
+msgid "Author's email"
+msgstr "Email do Autor"
+
+#: templates/addlinks.php:167 templates/help.php:56 templates/report.php:244
+msgid "Visit the Plugin page"
+msgstr "Visite a página do Plugin"
+
+#: templates/addlinks.php:179 templates/help.php:68 templates/report.php:256
+msgid "Visit the author's site"
+msgstr "Visite o site do Autor"
+
+#: templates/help.php:7
+msgid "Help"
+msgstr "Ajuda"
+
+#: templates/help.php:14
+msgid "For more help and more details, visit the plugin page"
+msgstr "Para mais ajuda e mais detalhes, visite a página do plugin"
+
+#: templates/report.php:7
+msgid "Reports"
+msgstr "Relatórios"
+
+#: templates/report.php:10
+msgid "See the reports on this page:"
+msgstr "Veja os relatórios nesta página:"
+
+#: templates/report.php:24
+msgid "All Affiliate Urls"
+msgstr "Todos os Urls de Afiliados"
+
+#: templates/report.php:61
+msgid "Link for Share"
+msgstr "Link para Compartilhar"
+
+#: templates/report.php:63
+msgid "Views"
+msgstr "Visualizações"
+
+#: templates/report.php:74
+msgid "Affiliate Url"
+msgstr "Url de Afiliado"
+
+#: templates/report.php:118
+msgid "Last 1000 Views"
+msgstr "Últimas 1000 visualizações"
+
+#: templates/report.php:136
+msgid "Date and Time"
+msgstr "Data e Horário"
+
+#: templates/report.php:139
+msgid "Origin"
+msgstr "Origem"
+
+#~ msgid "Take a Look!"
+#~ msgstr "Dê uma Olhada!"
+
+#~ msgid "Best Wordpress Themes"
+#~ msgstr "Melhores Temas Wordpress"
+
+#, fuzzy
+#~ msgid "Best Autoresponder for Email Marketing"
+#~ msgstr "Melhor Autoresponder para Email Marketing"
+
+#~ msgid "The Affiliate Url already exists!"
+#~ msgstr "O url de afiliado já existe!"
+
+#~ msgid "Best Web Hosting for Wordpress"
+#~ msgstr "Melhor hospedagem de sites para Wordpress"
+
+#~ msgid "http://plugin-wp.net/aff_hostgator"
+#~ msgstr "http://plugin-wp.net/aff_hostgator_br"
